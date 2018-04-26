@@ -31,6 +31,10 @@
     float: left;
     background-color: chartreuse;
 }
+.width_six{
+    width:192px;
+    float: left;
+}
 .footer{
     clear: both;
     background-color: darkmagenta;
