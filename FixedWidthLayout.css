@@ -3,6 +3,9 @@
     margin: 0 auto;
     border: 1px solid;
 }
+.height_one{
+    height: 520px;
+}
 .width_one{
     width: 360px;
     float: left;
@@ -19,7 +22,7 @@
     background-color: red;
 }
 .width_four{
-    width: 240px;
+    width: 320px;
     float: left;
     background-color: blueviolet;
 }
