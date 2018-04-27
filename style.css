@@ -81,6 +81,26 @@ table {
 	width:450px;
 	margin:10px 0 10px 20px;
 }
+.seven{
+	width:530px;
+	margin:10px 0 10px 20px;
+}
+.eight{
+	width: 610px;
+	margin:10px 0 10px 20px;
+}
+.nine{
+	width:690px;
+	margin:10px 0 10px 20px;
+}
+.ten{
+	width:770px;
+	margin:10px 0 10px 20px;
+}
+.eleven{
+	width:850px;
+	margin:10px 0 10px 20px;
+}
 .twelve{
 	width:930px;
 	margin:10px 0 10px 20px;
@@ -205,3 +225,14 @@ article{
 .footer .center{
 	padding:10px 0 10px 0;
 }
+/*start upload.html stylesheet*/
+.upload p{
+	margin: 10px 0 5px 0;
+	padding:5px 0 10px 0;
+}
+.upload label{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: black;	
+}
+/*end upload.html stylesheet*/
